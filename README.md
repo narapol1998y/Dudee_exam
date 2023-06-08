@@ -1,7 +1,7 @@
 # Dudee_exam
 installation 
-Open terminal on Folder Client
-$ npm install
+Open terminal on Folder Client,
+$ npm install,
 $ npm run dev
 
 
