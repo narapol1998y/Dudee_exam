@@ -14,6 +14,7 @@ const Home = () =>{
         <div data-theme={theme}>
         <Navbar onThemeToggle={handleThemeToggle} />
         <Hero/>
+        <h1>Hellow </h1>
         <Content/>
         <Footer/>
         </div>
